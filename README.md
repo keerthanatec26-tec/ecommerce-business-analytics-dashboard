@@ -111,13 +111,14 @@ ecommerce-business-analytics-dashboard/
 ├── requirements.txt
 └── README.md
 
+
 # ▶️ How to Run the Project
 
-## Clone Repository
+##Clone Repository
 
 ```bash
 git clone https://github.com/keerthanatec26-tec/ecommerce-business-analytics-dashboard.git
-```
+
 
 ## Install Requirements
 
